@@ -6,3 +6,6 @@ if __name__ == "__main__":
     b = 10
     result = sum(a, b)
     print(f"The sum of {a} and {b} is: {result}")
+
+
+    
